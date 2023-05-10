@@ -1,6 +1,6 @@
 # Super-Mario-Game
 
-Uploading video editing 2.mp4…
+Uploading video editing 2.mp4
 
 ### [To Watch the full video](https://drive.google.com/drive/folders/1ioNYgcXxv9G3Xt1A2pc9F6td4rwH9zJ9?usp=sharing)
 
@@ -22,5 +22,23 @@ Uploading video editing 2.mp4…
 
 ## Quitting The Game:
 - Press 'Esc' key to exit the game.
+
+# Important Files:
+## gamelib:
+- The main code of the game which contain main functions:
+-  clamp_off: adjust the position of the sprite based on which side it collided with another sprit.
+-  Collidable: simulation to detect and handle collisions between objects.
+-  update: updating the player's animation, movement, and various timers and attributes.
+-  class Platform: represents a basic platform and has the images.
+## data:
+- contain the images,sounds and background used in the game.
+## main:
+- importing the libraries
+- setting up the mediapipe instance
+- extracting the landmarks:
+        - if x coordinate passes left threshold move left
+        - if x coordinate passes right threshold move right
+        - if y coordinate passes aboe the top threshold move up
+
 
 
