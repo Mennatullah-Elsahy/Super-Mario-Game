@@ -4,7 +4,7 @@ Uploading video editing 2.mp4
 
 ### [To Watch the full video](https://drive.google.com/drive/folders/1ioNYgcXxv9G3Xt1A2pc9F6td4rwH9zJ9?usp=sharing)
 
-## Playing The Game:
+# Playing The Game:
 - The game consists of 3 levels with 4 lives, which are  in three different worlds.
 - If you lost all your lives or exceed the time, you will lose the game .
 
@@ -15,6 +15,10 @@ Uploading video editing 2.mp4
 - You can jump to avoid or kill enemies and to take coins, The more coins you claim, the higher the score you get.
 
 - It can be played by only one player.
+
+# Controls:
+<img width="474" alt="controls" src="https://github.com/Mennatullah-Elsahy/Super-Mario-Game/assets/83369752/860c8c78-f233-4615-983e-6b2550d2e790">
+
 
 ## Key Sounds:
 - Press 's' or 'S' key for sounds OFF.
