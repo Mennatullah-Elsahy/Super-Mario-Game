@@ -3,7 +3,7 @@
 
 ### [To Watch the full video](https://youtu.be/VyfEnuUlAHY)
 
-# Playing The Game:
+## Playing The Game:
 - The game consists of 3 levels with 4 lives, which are  in three different worlds.
 - If you lost all your lives or exceed the time, you will lose the game .
 
@@ -16,27 +16,27 @@ pose estimation algorithm as their will be a camera to detect your movements and
 
 - It can be played by only one player.
 
-# Controls:
+## Controls:
 <img width="474" alt="controls" src="https://github.com/Mennatullah-Elsahy/Super-Mario-Game/assets/83369752/860c8c78-f233-4615-983e-6b2550d2e790">
 
 
-## Key Sounds:
+### Key Sounds:
 - Press 's' or 'S' key for sounds OFF.
 - Press 'p' or 'P' key for sounds ON.
 
-## Quitting The Game:
+### Quitting The Game:
 - Press 'Esc' key to exit the game.
 
-# Important Files:
-## gamelib:
+## Important Files:
+### Gamelib:
 - The main code of the game which contain main functions:
 -  clamp_off: adjust the position of the sprite based on which side it collided with another sprit.
 -  Collidable: simulation to detect and handle collisions between objects.
 -  update: updating the player's animation, movement, and various timers and attributes.
 -  class Platform: represents a basic platform and has the images.
-## data:
+### Data:
 - contain the images,sounds and background used in the game.
-## main:
+### Main:
 - importing the libraries
 - setting up the mediapipe instance
 - extracting the landmarks:
