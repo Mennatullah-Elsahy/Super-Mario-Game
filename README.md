@@ -1,8 +1,7 @@
 # Super-Mario-Game
 
 
-### [To Watch the full video](
-https://youtu.be/VyfEnuUlAHY)
+### [To Watch the full video](https://youtu.be/VyfEnuUlAHY)
 
 # Playing The Game:
 - The game consists of 3 levels with 4 lives, which are  in three different worlds.
